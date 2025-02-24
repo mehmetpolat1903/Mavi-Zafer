@@ -1,6 +1,8 @@
 Projenin Genel Yapısı ve Kodların İşlevleri
 Mavi Zafer, C# Windows Forms ve .NET Framework kullanılarak geliştirilmiş bir Battle Ship tarzı deniz savaşı oyunu.
 
+MaviZafer.sln dosyası ile çalıştırablirsiniz.
+
 1. Giriş ve Kullanıcı İşlemleri
 frmLogin ve frmRegister: Kullanıcı giriş ve kayıt ekranları. Veritabanına bağlanarak kullanıcıları doğrular.
 frmSignIn: Kullanıcı giriş yaptıktan sonra ana seçim ekranına yönlendirir (frmSecim).
