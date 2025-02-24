@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaviZafer", "WindowsFormsApp9\MaviZafer.csproj", "{F6495131-F3CF-4AE5-8382-908B549D7374}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MaviZaferSetup", "MaviZaferSetup\MaviZaferSetup.vdproj", "{D76AB814-B50C-4F9F-A5DB-1EFFFA103F96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6495131-F3CF-4AE5-8382-908B549D7374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6495131-F3CF-4AE5-8382-908B549D7374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6495131-F3CF-4AE5-8382-908B549D7374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6495131-F3CF-4AE5-8382-908B549D7374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D76AB814-B50C-4F9F-A5DB-1EFFFA103F96}.Debug|Any CPU.ActiveCfg = Debug
+		{D76AB814-B50C-4F9F-A5DB-1EFFFA103F96}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF216E49-401E-45D3-A5C1-2AD095F87D3B}
+	EndGlobalSection
+EndGlobal

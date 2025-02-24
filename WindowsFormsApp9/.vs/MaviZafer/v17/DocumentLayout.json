@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6495131-F3CF-4AE5-8382-908B549D7374}|WindowsFormsApp9\\MaviZafer.csproj|c:\\users\\mehmet polat\\onedrive\\masa\u00FCst\u00FC\\windowsformsapp9\\windowsformsapp9\\frmbattle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6495131-F3CF-4AE5-8382-908B549D7374}|WindowsFormsApp9\\MaviZafer.csproj|solutionrelative:windowsformsapp9\\frmbattle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6495131-F3CF-4AE5-8382-908B549D7374}|WindowsFormsApp9\\MaviZafer.csproj|C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\windowsformsapp9\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6495131-F3CF-4AE5-8382-908B549D7374}|WindowsFormsApp9\\MaviZafer.csproj|solutionrelative:windowsformsapp9\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6495131-F3CF-4AE5-8382-908B549D7374}|WindowsFormsApp9\\MaviZafer.csproj|C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\windowsformsapp9\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6495131-F3CF-4AE5-8382-908B549D7374}|WindowsFormsApp9\\MaviZafer.csproj|solutionrelative:windowsformsapp9\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6495131-F3CF-4AE5-8382-908B549D7374}|WindowsFormsApp9\\MaviZafer.csproj|C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\windowsformsapp9\\frmgameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6495131-F3CF-4AE5-8382-908B549D7374}|WindowsFormsApp9\\MaviZafer.csproj|solutionrelative:windowsformsapp9\\frmgameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6495131-F3CF-4AE5-8382-908B549D7374}|WindowsFormsApp9\\MaviZafer.csproj|C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\windowsformsapp9\\frmsignin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6495131-F3CF-4AE5-8382-908B549D7374}|WindowsFormsApp9\\MaviZafer.csproj|solutionrelative:windowsformsapp9\\frmsignin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6495131-F3CF-4AE5-8382-908B549D7374}|WindowsFormsApp9\\MaviZafer.csproj|C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\windowsformsapp9\\scoreboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6495131-F3CF-4AE5-8382-908B549D7374}|WindowsFormsApp9\\MaviZafer.csproj|solutionrelative:windowsformsapp9\\scoreboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6495131-F3CF-4AE5-8382-908B549D7374}|WindowsFormsApp9\\MaviZafer.csproj|C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\windowsformsapp9\\frmscores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6495131-F3CF-4AE5-8382-908B549D7374}|WindowsFormsApp9\\MaviZafer.csproj|solutionrelative:windowsformsapp9\\frmscores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6495131-F3CF-4AE5-8382-908B549D7374}|WindowsFormsApp9\\MaviZafer.csproj|C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\windowsformsapp9\\botplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6495131-F3CF-4AE5-8382-908B549D7374}|WindowsFormsApp9\\MaviZafer.csproj|solutionrelative:windowsformsapp9\\botplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6495131-F3CF-4AE5-8382-908B549D7374}|WindowsFormsApp9\\MaviZafer.csproj|C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\windowsformsapp9\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6495131-F3CF-4AE5-8382-908B549D7374}|WindowsFormsApp9\\MaviZafer.csproj|solutionrelative:windowsformsapp9\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6495131-F3CF-4AE5-8382-908B549D7374}|WindowsFormsApp9\\MaviZafer.csproj|C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\windowsformsapp9\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6495131-F3CF-4AE5-8382-908B549D7374}|WindowsFormsApp9\\MaviZafer.csproj|solutionrelative:windowsformsapp9\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6495131-F3CF-4AE5-8382-908B549D7374}|WindowsFormsApp9\\MaviZafer.csproj|C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\windowsformsapp9\\frmdifficultyselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6495131-F3CF-4AE5-8382-908B549D7374}|WindowsFormsApp9\\MaviZafer.csproj|solutionrelative:windowsformsapp9\\frmdifficultyselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6495131-F3CF-4AE5-8382-908B549D7374}|WindowsFormsApp9\\MaviZafer.csproj|C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\windowsformsapp9\\frmsecim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6495131-F3CF-4AE5-8382-908B549D7374}|WindowsFormsApp9\\MaviZafer.csproj|solutionrelative:windowsformsapp9\\frmsecim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6495131-F3CF-4AE5-8382-908B549D7374}|WindowsFormsApp9\\MaviZafer.csproj|C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\windowsformsapp9\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6495131-F3CF-4AE5-8382-908B549D7374}|WindowsFormsApp9\\MaviZafer.csproj|solutionrelative:windowsformsapp9\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6495131-F3CF-4AE5-8382-908B549D7374}|WindowsFormsApp9\\MaviZafer.csproj|C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\windowsformsapp9\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6495131-F3CF-4AE5-8382-908B549D7374}|WindowsFormsApp9\\MaviZafer.csproj|solutionrelative:windowsformsapp9\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6495131-F3CF-4AE5-8382-908B549D7374}|WindowsFormsApp9\\MaviZafer.csproj|C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\windowsformsapp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6495131-F3CF-4AE5-8382-908B549D7374}|WindowsFormsApp9\\MaviZafer.csproj|solutionrelative:windowsformsapp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\WindowsFormsApp9\\frmLogin.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp9\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\WindowsFormsApp9\\frmLogin.cs",
+              "RelativeToolTip": "WindowsFormsApp9\\frmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:52:50.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmSignIn.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\WindowsFormsApp9\\frmSignIn.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp9\\frmSignIn.cs",
+              "ToolTip": "C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\WindowsFormsApp9\\frmSignIn.cs",
+              "RelativeToolTip": "WindowsFormsApp9\\frmSignIn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:52:50.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmRegister.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\WindowsFormsApp9\\frmRegister.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp9\\frmRegister.cs",
+              "ToolTip": "C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\WindowsFormsApp9\\frmRegister.cs",
+              "RelativeToolTip": "WindowsFormsApp9\\frmRegister.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:52:50.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AboutForm.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\WindowsFormsApp9\\AboutForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp9\\AboutForm.cs",
+              "ToolTip": "C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\WindowsFormsApp9\\AboutForm.cs",
+              "RelativeToolTip": "WindowsFormsApp9\\AboutForm.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAHMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:52:50.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmSecim.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\WindowsFormsApp9\\frmSecim.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp9\\frmSecim.cs",
+              "ToolTip": "C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\WindowsFormsApp9\\frmSecim.cs",
+              "RelativeToolTip": "WindowsFormsApp9\\frmSecim.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAAABoBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:52:50.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmDifficultySelect.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\WindowsFormsApp9\\frmDifficultySelect.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp9\\frmDifficultySelect.cs",
+              "ToolTip": "C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\WindowsFormsApp9\\frmDifficultySelect.cs",
+              "RelativeToolTip": "WindowsFormsApp9\\frmDifficultySelect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:52:50.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmGameBoard.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\WindowsFormsApp9\\frmGameBoard.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp9\\frmGameBoard.cs",
+              "ToolTip": "C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\WindowsFormsApp9\\frmGameBoard.cs",
+              "RelativeToolTip": "WindowsFormsApp9\\frmGameBoard.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAQwLAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:52:50.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmBattle.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\WindowsFormsApp9\\frmBattle.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp9\\frmBattle.cs",
+              "ToolTip": "C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\WindowsFormsApp9\\frmBattle.cs",
+              "RelativeToolTip": "WindowsFormsApp9\\frmBattle.cs",
+              "ViewState": "AgIAACgCAAAAAAAAAAAQwEQCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:59:48.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\WindowsFormsApp9\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp9\\Program.cs",
+              "ToolTip": "C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\WindowsFormsApp9\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:52:50.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\WindowsFormsApp9\\GameManager.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp9\\GameManager.cs",
+              "ToolTip": "C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\WindowsFormsApp9\\GameManager.cs",
+              "RelativeToolTip": "WindowsFormsApp9\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:52:50.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\WindowsFormsApp9\\Player.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp9\\Player.cs",
+              "ToolTip": "C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\WindowsFormsApp9\\Player.cs",
+              "RelativeToolTip": "WindowsFormsApp9\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:52:50.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BotPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\WindowsFormsApp9\\BotPlayer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp9\\BotPlayer.cs",
+              "ToolTip": "C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\WindowsFormsApp9\\BotPlayer.cs",
+              "RelativeToolTip": "WindowsFormsApp9\\BotPlayer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:52:50.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ship.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\WindowsFormsApp9\\Ship.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp9\\Ship.cs",
+              "ToolTip": "C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\WindowsFormsApp9\\Ship.cs",
+              "RelativeToolTip": "WindowsFormsApp9\\Ship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:52:50.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmScores.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\WindowsFormsApp9\\frmScores.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp9\\frmScores.cs",
+              "ToolTip": "C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\WindowsFormsApp9\\frmScores.cs",
+              "RelativeToolTip": "WindowsFormsApp9\\frmScores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:52:50.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScoreBoard.cs",
+              "DocumentMoniker": "C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\WindowsFormsApp9\\ScoreBoard.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp9\\ScoreBoard.cs",
+              "ToolTip": "C:\\Users\\MEHMET POLAT\\OneDrive\\Masa\u00FCst\u00FC\\WindowsFormsApp9\\WindowsFormsApp9\\ScoreBoard.cs",
+              "RelativeToolTip": "WindowsFormsApp9\\ScoreBoard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:52:50.377Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
